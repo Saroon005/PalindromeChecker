@@ -39,7 +39,7 @@ public class UseCase6PalindromeCheckerApp {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("==================================================");
 		System.out.println("Welcome to Palindrome Checker Management System");
-		System.out.println("Version : 4.0");
+		System.out.println("Version : 6.0");
 		System.out.println("System initialized succesfully.");
 		System.out.println("==================================================");
 		System.out.print("Enter the Input : ");
